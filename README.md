@@ -7,7 +7,7 @@ npm install react-native-wallpaper-manage
 
 # OR
 
-yarn install react-native-wallpaper-manage
+yarn add react-native-wallpaper-manage
 ```
 
 ## Usage
